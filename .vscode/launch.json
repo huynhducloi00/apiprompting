@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Main",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "main.py",
+            "justMyCode": false,
+            "cwd": "${workspaceFolder}/API/API_CLIP",
+            "args": [
+                "--dataset",
+                "mmvet",
+                "--range",
+                "0",
+                "300",
+                "--model_name",
+                "ViT-L-14-336",
+                "--layer_index",
+                "22",
+                "--batch_size",
+                "8",
+                "--output_folder",
+                "../results",
+                "--interpolate_method_name",
+                "BICUBIC",
+                "--enhance_coe",
+                "1",
+                "--kernel_size",
+                "3",
+                "--grayscale",
+                "0"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

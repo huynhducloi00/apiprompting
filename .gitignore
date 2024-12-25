@@ -1,8 +1,10 @@
 *pycache*
 
-asserts/*.jpg
+API/DatasetManager/DatasetManager.egg-info/*
+
+*.jpg
 asserts/*.jpeg
-asserts/*.png
+*.png
 asserts/*.gif
 asserts/*.svg
 asserts/*.ico

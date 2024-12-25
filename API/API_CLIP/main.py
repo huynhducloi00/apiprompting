@@ -1,8 +1,11 @@
-import os, time, base64, requests, json, sys, datetime, argparse
+from DatasetManager.env_utils import set_env
+
+set_env()    
+import time, base64, requests, json, sys, datetime, argparse
 from itertools import product
 
 from PIL import Image
-import cv2
+# import cv2
 
 import numpy as np
 import torch
@@ -51,7 +54,7 @@ def get_model(model_name = "ViT-L-14-336", layer_index = 23): # "ViT-L-14", "ViT
     pretrained = 'openai' # 'laion2b_s32b_b79k'
 
     ## Loading Model
-    model, _, preprocess = create_model_and_transforms(model_name, pretrained=pretrained)
+    model, _, preprocess = create_model_and_transforms(model_name, pretrained=pretrained, cache_dir='/work/cvp352/loi_work/openai_model/')
     model.to(device)
     model.eval()
     context_length = model.context_length

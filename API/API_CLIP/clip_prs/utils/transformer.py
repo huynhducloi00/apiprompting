@@ -7,7 +7,7 @@ from torch import nn
 from torch.nn import functional as F
 from torch.utils.checkpoint import checkpoint
 import numbers
-import einops 
+# import einops 
 import numpy as np
 from utils.misc import to_2tuple
 from utils.hook import HookManager
