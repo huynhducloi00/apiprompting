@@ -1,6 +1,9 @@
+import math
 from DatasetManager.env_utils import set_env
+from tqdm import tqdm
 
 set_env()    
+import os
 import time, base64, requests, json, sys, datetime, argparse
 from itertools import product
 
@@ -97,7 +100,7 @@ def gen_mask(model, prs, preprocess, device, tokenizer, image_path_or_pil_images
 
     ## Get the texts
     lines = questions if isinstance(questions, list) else [questions]
-    print(lines[0])
+    # print(lines[0])
     texts = tokenizer(lines).to(device)  # tokenize
     class_embeddings = model.encode_text(texts)
     class_embedding = F.normalize(class_embeddings, dim=-1)
@@ -142,7 +145,7 @@ def blend_mask(image, cls_mask, patch_mask, key, enhance_coe, kernel_size, inter
 
     file_name = os.path.join(folder, f"{key}.jpg")
     merged_image.save(file_name)
-    print(file_name)
+    # print(file_name)
     return merged_image
 
 if __name__ == "__main__":
@@ -175,10 +178,10 @@ if __name__ == "__main__":
     mask_image_folder = os.path.join(exp_folder, f"{enhance_coe}_{kernel_size}_{interpolate_method_name}_{grayscale}")
     os.makedirs(mask_image_folder, exist_ok = True)
 
-    for keys, image_path_or_pil_images, questions in dataset_loader:
+    for keys, image_path_or_pil_images, questions in tqdm(dataset_loader,total=math.ceil(len(dataset)/batch_size)):
 
         with torch.no_grad():
             image_pils, cls_masks, patch_masks = gen_mask(model, prs, preprocess, device, tokenizer, image_path_or_pil_images, questions)
 
-        for key, image, cls_mask, patch_mask in zip(keys, image_pils, cls_masks, patch_masks):
+        for key, image, cls_mask, patch_mask in tqdm(zip(keys, image_pils, cls_masks, patch_masks),total=len(keys), leave=False):
             merged_image = blend_mask(image, cls_mask, patch_mask, key, enhance_coe, kernel_size, interpolate_method, grayscale, mask_image_folder)

@@ -1,7 +1,7 @@
 *pycache*
 
 API/DatasetManager
-
+*.pem
 *.jpg
 asserts/*.jpeg
 *.png

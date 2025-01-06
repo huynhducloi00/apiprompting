@@ -1,3 +1,7 @@
+from DatasetManager.env_utils import set_env
+
+
+set_env()
 import os, argparse, json, datetime, time, sys
 from PIL import Image
 import torch
@@ -75,7 +79,6 @@ if __name__ == "__main__":
     os.makedirs(os.path.dirname(result_path), exist_ok = True)
 
     arguments = []
-
     for index in range(len(dataset)):
         key, image_path, question = dataset.get_item(index)
         if args.previous_answer_file:
@@ -103,7 +106,7 @@ if __name__ == "__main__":
     states = image_qa.run_batch(
         arguments,
         temperature=0,
-        num_threads=args.parallel,
+        num_threads=1, #args.parallel,
         progress_bar=False)
     latency = time.time() - tic
 

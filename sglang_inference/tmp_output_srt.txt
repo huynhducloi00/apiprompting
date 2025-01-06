@@ -1,0 +1,1130 @@
+======================================== 0 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is x in the equation?" ASSISTANT:
+================================================================================
+
+======================================== 1 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is d in the last equation?" ASSISTANT:
+================================================================================
+
+======================================== 2 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is x in the equation?" ASSISTANT:
+================================================================================
+
+======================================== 3 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the answer to the bottom left equation?" ASSISTANT:
+================================================================================
+
+======================================== 4 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the answer to the second equation on the right?" ASSISTANT:
+================================================================================
+
+======================================== 5 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the answer to the second last equation on the right?" ASSISTANT:
+================================================================================
+
+======================================== 6 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is y in the last equation?" ASSISTANT:
+================================================================================
+
+======================================== 7 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Find the pattern of how the "X" operator is redefined, and answer the given equation in the image." ASSISTANT:
+================================================================================
+
+======================================== 8 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What will the girl on the right write on the board?" ASSISTANT:
+================================================================================
+
+======================================== 9 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How many gallons of supreme gasoline can I get with $50?" ASSISTANT:
+================================================================================
+
+======================================== 10 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the price difference between diesel and regular gasoline?" ASSISTANT:
+================================================================================
+
+======================================== 11 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the total price for a bottle of Merlot and a bottle of Cabernet shown in the image?" ASSISTANT:
+================================================================================
+
+======================================== 12 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the cost of three bottles of Moet champagne?" ASSISTANT:
+================================================================================
+
+======================================== 13 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"I am getting one funghi pizza and one prosciutto pizza. How much should I pay in total?" ASSISTANT:
+================================================================================
+
+======================================== 14 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"I am getting two margherita pizza and one calzone. How much should I pay in total?" ASSISTANT:
+================================================================================
+
+======================================== 15 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the original price for pork belly before discount?" ASSISTANT:
+================================================================================
+
+======================================== 16 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the gasoline price?" ASSISTANT:
+================================================================================
+
+======================================== 17 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the color of the hat worn by the person in the front left?" ASSISTANT:
+================================================================================
+
+======================================== 18 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is located to the right of the shampoo?" ASSISTANT:
+================================================================================
+
+======================================== 19 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is in the right most bottle?" ASSISTANT:
+================================================================================
+
+======================================== 20 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the spatial relation between the frisbee and the man?" ASSISTANT:
+================================================================================
+
+======================================== 21 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which car is on the parking spot 33?" ASSISTANT:
+================================================================================
+
+======================================== 22 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which spot is the red car parking on?" ASSISTANT:
+================================================================================
+
+======================================== 23 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the price for tomatoes?" ASSISTANT:
+================================================================================
+
+======================================== 24 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What fruit is the the right of plums?" ASSISTANT:
+================================================================================
+
+======================================== 25 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Based on the image, what is the total international awareness of Tina Fey?" ASSISTANT:
+================================================================================
+
+======================================== 26 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Based on the image, in which country does Tina Fey have the highest level of total awareness?" ASSISTANT:
+================================================================================
+
+======================================== 27 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What earth's interior structure does number 2 indicate?" ASSISTANT:
+================================================================================
+
+======================================== 28 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the number displayed on the motorcycle ridden by the motorcyclist wearing a yellow suit?" ASSISTANT:
+================================================================================
+
+======================================== 29 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the number displayed on the motorcycle on the right?" ASSISTANT:
+================================================================================
+
+======================================== 30 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Are which one of these two jets are larger in size?" ASSISTANT:
+================================================================================
+
+======================================== 31 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the person bigger than the car?" ASSISTANT:
+================================================================================
+
+======================================== 32 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What should I do after kneading the dough, before dividing it into pieces?" ASSISTANT:
+================================================================================
+
+======================================== 33 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Should I add sugar when mixing egg and milk?" ASSISTANT:
+================================================================================
+
+======================================== 34 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What should I do before cutting herbs, sausage, and mushrooms?" ASSISTANT:
+================================================================================
+
+======================================== 35 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the index of the step when we need to add all purpose flour?" ASSISTANT:
+================================================================================
+
+======================================== 36 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What should we add in the third step?" ASSISTANT:
+================================================================================
+
+======================================== 37 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What should kids do after snap fingers?" ASSISTANT:
+================================================================================
+
+======================================== 38 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What should be drawn in the fourth step?" ASSISTANT:
+================================================================================
+
+======================================== 39 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the step after using probe to spread tire puncture?" ASSISTANT:
+================================================================================
+
+======================================== 40 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the second step suggested?" ASSISTANT:
+================================================================================
+
+======================================== 41 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the last strategy given in the image?" ASSISTANT:
+================================================================================
+
+======================================== 42 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the average total fueling cost excluding the Ford F150?" ASSISTANT:
+================================================================================
+
+======================================== 43 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the highest fueling cost?" ASSISTANT:
+================================================================================
+
+======================================== 44 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which category did the worst job in plastic recycling, considering the amount of plastic made and thrown out?" ASSISTANT:
+================================================================================
+
+======================================== 45 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the difference in metric tonnes between the amount of plastic produced and the amount discarded?" ASSISTANT:
+================================================================================
+
+======================================== 46 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the estimated average standing charge for the year 2023?" ASSISTANT:
+================================================================================
+
+======================================== 47 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the estimated total cost for the year 2023?" ASSISTANT:
+================================================================================
+
+======================================== 48 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"In which direction does the living room window face?" ASSISTANT:
+================================================================================
+
+======================================== 49 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are the appliances in the kitchen in this floorplan?" ASSISTANT:
+================================================================================
+
+======================================== 50 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which room is bigger, the double garage or the living room?" ASSISTANT:
+================================================================================
+
+======================================== 51 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which room is bigger, the master bedroom or the patio?" ASSISTANT:
+================================================================================
+
+======================================== 52 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the solution if the lamp is plugged in and the bulb has burned out?" ASSISTANT:
+================================================================================
+
+======================================== 53 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which step in the flowchart is drawn with a diamond shape?" ASSISTANT:
+================================================================================
+
+======================================== 54 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the average wait time to climb out of bed?" ASSISTANT:
+================================================================================
+
+======================================== 55 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which year has the highest growth rate of median house price?" ASSISTANT:
+================================================================================
+
+======================================== 56 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is Japan's gdp in 2012?" ASSISTANT:
+================================================================================
+
+======================================== 57 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"In which years did rowing and athletics have the same number of gold medals?" ASSISTANT:
+================================================================================
+
+======================================== 58 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which department is the person who has the highest salary from?" ASSISTANT:
+================================================================================
+
+======================================== 59 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Based on the table, how much is Wilkins earning?" ASSISTANT:
+================================================================================
+
+======================================== 60 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which country has a below-average profit margin?" ASSISTANT:
+================================================================================
+
+======================================== 61 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which country has the highest profit margin?" ASSISTANT:
+================================================================================
+
+======================================== 62 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"In which month is the highest income generated?" ASSISTANT:
+================================================================================
+
+======================================== 63 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What percentage does salary contribute to total income?" ASSISTANT:
+================================================================================
+
+======================================== 64 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Who is the person on the left?" ASSISTANT:
+================================================================================
+
+======================================== 65 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Who is the person in the image?" ASSISTANT:
+================================================================================
+
+======================================== 66 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Who is the person in the bottom right?" ASSISTANT:
+================================================================================
+
+======================================== 67 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which one is unsweetened?" ASSISTANT:
+================================================================================
+
+======================================== 68 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is this apple organic?" ASSISTANT:
+================================================================================
+
+======================================== 69 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the calories for the entire bag?" ASSISTANT:
+================================================================================
+
+======================================== 70 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the name of this dish?" ASSISTANT:
+================================================================================
+
+======================================== 71 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the name of this dish?" ASSISTANT:
+================================================================================
+
+======================================== 72 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the name of this dish?" ASSISTANT:
+================================================================================
+
+======================================== 73 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the make of the car on the left?" ASSISTANT:
+================================================================================
+
+======================================== 74 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What does this factory make?" ASSISTANT:
+================================================================================
+
+======================================== 75 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"what is the green logo on the car?" ASSISTANT:
+================================================================================
+
+======================================== 76 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the name of this landmark?" ASSISTANT:
+================================================================================
+
+======================================== 77 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the name of this landmark?" ASSISTANT:
+================================================================================
+
+======================================== 78 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the name of this landmark?" ASSISTANT:
+================================================================================
+
+======================================== 79 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the face value of this banknote?" ASSISTANT:
+================================================================================
+
+======================================== 80 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this banknote?" ASSISTANT:
+================================================================================
+
+======================================== 81 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What type of currency does this banknote represent?" ASSISTANT:
+================================================================================
+
+======================================== 82 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)" ASSISTANT:
+================================================================================
+
+======================================== 83 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)" ASSISTANT:
+================================================================================
+
+======================================== 84 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)" ASSISTANT:
+================================================================================
+
+======================================== 85 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How many birds are there?" ASSISTANT:
+================================================================================
+
+======================================== 86 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How many tomatoes are there?" ASSISTANT:
+================================================================================
+
+======================================== 87 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How many books are there?" ASSISTANT:
+================================================================================
+
+======================================== 88 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 89 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 90 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 91 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 92 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 93 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 94 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the brand of this device?" ASSISTANT:
+================================================================================
+
+======================================== 95 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the license plate number?" ASSISTANT:
+================================================================================
+
+======================================== 96 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the French scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 97 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What are all the Chinese scene text in the image?" ASSISTANT:
+================================================================================
+
+======================================== 98 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which continent is highlighted?" ASSISTANT:
+================================================================================
+
+======================================== 99 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which are producers in this food web?" ASSISTANT:
+================================================================================
+
+======================================== 100 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Compare the average kinetic energies of the particles in each sample. The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles. Which sample has the higher temperature? Sample A or sample B?" ASSISTANT:
+================================================================================
+
+======================================== 101 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which of these highlighted cities is the farthest north?" ASSISTANT:
+================================================================================
+
+======================================== 102 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Where is this photo taken?" ASSISTANT:
+================================================================================
+
+======================================== 103 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Where is this photo taken?" ASSISTANT:
+================================================================================
+
+======================================== 104 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Where is this photo taken?" ASSISTANT:
+================================================================================
+
+======================================== 105 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"In which country was this photo taken?" ASSISTANT:
+================================================================================
+
+======================================== 106 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Are the trees taller than the giraffes?" ASSISTANT:
+================================================================================
+
+======================================== 107 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is this airplane taking off or landing?" ASSISTANT:
+================================================================================
+
+======================================== 108 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How many people are sitting down?" ASSISTANT:
+================================================================================
+
+======================================== 109 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the trash empty or full?" ASSISTANT:
+================================================================================
+
+======================================== 110 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Does the giraffe appear dangerous?" ASSISTANT:
+================================================================================
+
+======================================== 111 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is there any reflection of zebra in water?" ASSISTANT:
+================================================================================
+
+======================================== 112 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the man happy?" ASSISTANT:
+================================================================================
+
+======================================== 113 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Are all of the cats the same color?" ASSISTANT:
+================================================================================
+
+======================================== 114 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is that wine in the background?" ASSISTANT:
+================================================================================
+
+======================================== 115 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the man going to fall down?" ASSISTANT:
+================================================================================
+
+======================================== 116 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What place is pictured?" ASSISTANT:
+================================================================================
+
+======================================== 117 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is it outdoors?" ASSISTANT:
+================================================================================
+
+======================================== 118 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How's the weather?" ASSISTANT:
+================================================================================
+
+======================================== 119 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the color of the fence made of metal?" ASSISTANT:
+================================================================================
+
+======================================== 120 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Does the person to the left of the man appear to be sitting?" ASSISTANT:
+================================================================================
+
+======================================== 121 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the plate of the table both dirty and silver?" ASSISTANT:
+================================================================================
+
+======================================== 122 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the curtain on the right side or on the left of the picture?" ASSISTANT:
+================================================================================
+
+======================================== 123 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is there a computer in this photo?" ASSISTANT:
+================================================================================
+
+======================================== 124 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Are there napkins under the utensil to the left of the rice?" ASSISTANT:
+================================================================================
+
+======================================== 125 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Are there nuts or vegetables?" ASSISTANT:
+================================================================================
+
+======================================== 126 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Are there both plates and forks in this picture?" ASSISTANT:
+================================================================================
+
+======================================== 127 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this bird called?" ASSISTANT:
+================================================================================
+
+======================================== 128 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Which animal in the picture is larger, the cat or the dog?" ASSISTANT:
+================================================================================
+
+======================================== 129 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"On the right desk, what is to the left of the laptop? " ASSISTANT:
+================================================================================
+
+======================================== 130 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Does the man ride a horse?" ASSISTANT:
+================================================================================
+
+======================================== 131 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the surfer to the left or to the right of the surfboard?" ASSISTANT:
+================================================================================
+
+======================================== 132 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is the lamp on, a side table or a nightstand?" ASSISTANT:
+================================================================================
+
+======================================== 133 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What do both the stump and the fence have in common?" ASSISTANT:
+================================================================================
+
+======================================== 134 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the spoon made of the same material as the chopsticks?" ASSISTANT:
+================================================================================
+
+======================================== 135 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Does the shirt have a different color than the kite?" ASSISTANT:
+================================================================================
+
+======================================== 136 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Do all these people have the same gender?" ASSISTANT:
+================================================================================
+
+======================================== 137 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Are these two animals different species?" ASSISTANT:
+================================================================================
+
+======================================== 138 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Where are the persons? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 139 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Why are the persons wearing black clothes? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 140 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Why is the woman wearing a robe? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 141 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Where is this happening? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 142 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is it summertime in the scene? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 143 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Is the woman in red going to be mad at the man, for looking at the woman in dress? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 144 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Why does the woman have both of her hands in the air? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 145 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What kind of school does the boy go to? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 146 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Do the persons live in this house? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 147 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Why are the man and woman in white so close to each other? Answer it and give the rationale." ASSISTANT:
+================================================================================
+
+======================================== 148 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you explain this meme?" ASSISTANT:
+================================================================================
+
+======================================== 149 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you explain this meme?" ASSISTANT:
+================================================================================
+
+======================================== 150 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you explain this meme?" ASSISTANT:
+================================================================================
+
+======================================== 151 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you explain this meme?" ASSISTANT:
+================================================================================
+
+======================================== 152 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you explain this meme?" ASSISTANT:
+================================================================================
+
+======================================== 153 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is funny about this image?" ASSISTANT:
+================================================================================
+
+======================================== 154 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is funny about this image?" ASSISTANT:
+================================================================================
+
+======================================== 155 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What occasions would someone use this meme?" ASSISTANT:
+================================================================================
+
+======================================== 156 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What occasions would someone use this meme?" ASSISTANT:
+================================================================================
+
+======================================== 157 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What occasions would someone use this meme?" ASSISTANT:
+================================================================================
+
+======================================== 158 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 159 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to make this?" ASSISTANT:
+================================================================================
+
+======================================== 160 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 161 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 162 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 163 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 164 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 165 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 166 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 167 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"How to cook this dish?" ASSISTANT:
+================================================================================
+
+======================================== 168 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 169 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 170 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 171 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 172 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 173 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 174 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 175 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 176 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 177 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this movie?" ASSISTANT:
+================================================================================
+
+======================================== 178 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 179 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 180 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 181 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 182 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 183 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 184 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 185 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 186 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 187 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this painting?" ASSISTANT:
+================================================================================
+
+======================================== 188 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 189 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 190 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 191 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 192 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 193 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 194 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 195 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 196 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 197 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"What is this disease (give short introduction) and how to treat it?" ASSISTANT:
+================================================================================
+
+======================================== 198 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 199 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 200 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 201 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 202 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 203 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 204 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 205 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 206 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 207 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Can you give a short introduction to this person?" ASSISTANT:
+================================================================================
+
+======================================== 208 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The graph below shows the long-term international migration, UK, 1999-2008.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 209 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The graph and table below give information about water use worldwide and water consumption in two different countries.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 210 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The charts below give information about USA marriage and divorce rates between 1970 and 2000, and the marital status of adult Americans in two of the years.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 211 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The chart below shows the amount spent on six consumer goods in four European countries.
+
+Write a report for a university lecturer describing the information shown below.
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 212 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The table below gives information about the underground railway systems in six cities.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 213 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The table below gives information on consumer spending on different items in five different countries in 2002.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 214 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The pie charts below show units of electricity production by fuel source in Australia and France in 1980 and 2000.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 215 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"Chorleywood is a village near London whose population has increased steadily since the middle of the nineteenth century. The map below shows the development of the village.
+
+Write a report for a university lecturer describing the development of the village. 
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 216 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The map below is of the town of Garlsdon. A new supermarket (S) is planned for the town. The map shows two possible sites for the supermarket.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant. 
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+
+======================================== 217 ========================================
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <image>
+"The diagram below shows how the Australian Bureau of Meteorology collects up-to-the-minute information on the weather in order to produce reliable forecasts.
+
+Write a report for a university lecturer describing the information shown below. 
+
+You should write at least 150 words." ASSISTANT:
+================================================================================
+

@@ -5,6 +5,39 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/work/cvp352/loi_work/2025/apiprompting/sglang_inference/test_sglang_local.py",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Run SgLang",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/sglang_inference/",
+            "program": "sglang_inference.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--dataset",
+                "mmvet",
+                "--batch_size",
+                "8",
+                "--prompt_name",
+                "empty",
+                "--image_folder",
+                "../results/APICLIP_mmvet_ViT-L-14-336_22/1_3_BICUBIC_0",
+                "--output_folder",
+                "../results",
+                "--exp_name",
+                "loi_llava15_mmvet_api",
+                "--port_value",
+                "30000"
+            ],
+            "justMyCode": false
+        },
+        {
             "name": "Run Main",
             "type": "debugpy",
             "request": "launch",
